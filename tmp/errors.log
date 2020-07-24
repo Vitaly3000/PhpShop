@@ -1,68 +1,66 @@
-[2020-07-10 03:14:52] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-12 01:01:36] Текст ошибки: Страница не найдена!! | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 6
 =================
-[2020-07-10 03:14:52] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-12 01:02:26] Текст ошибки: Страница не найдена!! | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 6
 =================
-[2020-07-10 03:15:26] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:29:57] Текст ошибки: Class 'mysql_xdevapi\Exception' not found | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:15:38] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:29:58] Текст ошибки: Class 'mysql_xdevapi\Exception' not found | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:15:44] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:30:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:18:06] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:30:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:18:31] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:30:22] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:19:47] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:30:24] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:20:57] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:30:28] Текст ошибки: Class 'mysql_xdevapi\Exception' not found | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:27] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:30:36] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:44] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:31:48] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:44] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:46:35] Текст ошибки: Class 'mysql_xdevapi\Exception' not found | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:48] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 02:46:46] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:48] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:05] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:49] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:11] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:49] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:26] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:51] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:28] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:51] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:30] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:56] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:31] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:25:56] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:33] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:26:03] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:41] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:27:37] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 04:59:45] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:27:46] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:06:26] Текст ошибки: Class 'app\controllers\PageFController' not found | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 36
 =================
-[2020-07-10 03:27:51] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:11:13] Текст ошибки: Контроллер app\controllers\PageFController не найден | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 45
 =================
-[2020-07-10 03:28:09] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:11:13] Текст ошибки: Контроллер app\controllers\PageFController не найден | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 45
 =================
-[2020-07-10 03:28:09] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:11:27] Текст ошибки: Контроллер app\controllers\PageFController не найден | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 45
 =================
-[2020-07-10 03:28:10] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:11:34] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 49
 =================
-[2020-07-10 03:28:10] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:11:44] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 45
 =================
-[2020-07-10 03:28:11] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:12:14] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 41
 =================
-[2020-07-10 03:28:11] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-13 05:15:48] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 41
 =================
-[2020-07-10 03:28:11] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-22 20:46:34] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 49
 =================
-[2020-07-10 03:28:12] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-22 20:46:42] Текст ошибки: Контроллер app\controllers\JjController не найден | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 45
 =================
-[2020-07-10 03:28:13] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
-=================
-[2020-07-10 03:29:46] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\public\index.php | Строка: 8
+[2020-07-23 11:11:23] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop\vendor\shop\core\Router.php | Строка: 49
 =================
